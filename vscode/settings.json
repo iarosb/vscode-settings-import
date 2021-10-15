@@ -1,0 +1,55 @@
+// Linux: $HOME/.config/Code/User/settings.json
+{
+
+    "editor.fontSize": 16,
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on",
+    "python.pythonPath": "/bin/python3",
+    "workbench.iconTheme": "material-icon-theme",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+
+
+    "editor.wordWrapColumn": 100,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.showWords": false,
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.quickSuggestionsDelay": 400,
+    "editor.parameterHints.enabled": false,
+    "extensions.autoUpdate": false,
+    "update.mode": "manual",
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+
+    // experimental settings
+    "javascript.suggest.names": false,
+
+    "[go]": {
+
+    "editor.wordBasedSuggestions": false,
+
+    "editor.suggest.showWords": false,
+    "editor.suggest.showKeywords": true,
+    "editor.suggestSelection": "recentlyUsed",
+    
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "editor.suggestSelection": "first",
+    "editor.suggest.showKeywords": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.emptyWindow": false,
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.banner": "always",
+    "window.zoomLevel": 3,
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Brackets Light Pro Bold"
+
+}

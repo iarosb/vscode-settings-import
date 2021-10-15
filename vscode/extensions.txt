@@ -1,0 +1,18 @@
+// obtained from CLI:
+// code --list-extensions > extensions.txt
+
+aaron-bond.better-comments
+Atishay-Jain.All-Autocomplete
+be5invis.theme-railgun
+CoenraadS.bracket-pair-colorizer
+dbaeumer.vscode-eslint
+eamodio.gitlens
+fehey.brackets-light-pro
+golang.go
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-vscode.vscode-typescript-next
+PKief.material-icon-theme
+wonderpanda.arbiter
