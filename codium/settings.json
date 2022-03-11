@@ -1,54 +1,54 @@
 // taken from:
 // ~/.config/VSCodium/User/settings.json
 {
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.statusBar.visible": false,
-  "workbench.colorTheme": "Default Dark+",
-
-  "editor.fontSize": 13,
-  "files.autoSave": "onWindowChange",
-  "editor.wordWrap": "on",
-  "telemetry.enableTelemetry": false,
-  "telemetry.enableCrashReporter": false,
-
-  "editor.wordWrapColumn": 100,
-  "editor.minimap.enabled": false,
-  "editor.snippetSuggestions": "top",
-  "editor.wordBasedSuggestions": false,
-  "editor.suggest.showWords": false,
-  "editor.tabCompletion": "on",
-  "editor.acceptSuggestionOnEnter": "off",
-  "editor.acceptSuggestionOnCommitCharacter": false,
-  "editor.quickSuggestionsDelay": 400,
-  "editor.parameterHints.enabled": false,
-  "extensions.autoUpdate": false,
-  "update.mode": "manual",
-  "editor.tabSize": 2,
-  "workbench.startupEditor": "newUntitledFile",
-
-  // experimental settings
-  "javascript.suggest.names": false,
-
-  "[go]": {
-
-  "editor.wordBasedSuggestions": false,
-
-  "editor.suggest.showWords": false,
-  "editor.suggest.showKeywords": true,
-  "editor.suggestSelection": "recentlyUsed",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Flare Theme",
   
-      "editor.insertSpaces": false,
-      "editor.formatOnSave": true,
-      "editor.codeActionsOnSave": {
-          "source.organizeImports": true
-      }
-  },
-  "editor.suggestSelection": "first",
-  "editor.suggest.showKeywords": false,
-  "workbench.editor.untitled.hint": "hidden",
-  "security.workspace.trust.emptyWindow": false,
-  "security.workspace.trust.enabled": false,
-  "security.workspace.trust.banner": "always",
-  "window.zoomLevel": 3,
-  "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 13,
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on",
+    "telemetry.telemetryLevel": "off",
+  
+    "editor.wordWrapColumn": 100,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.showWords": false,
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.quickSuggestionsDelay": 400,
+    "editor.parameterHints.enabled": false,
+    "extensions.autoUpdate": false,
+    "update.mode": "manual",
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+
+
+    "javascript.suggest.names": false,
+
+    "[go]": {
+
+    "editor.wordBasedSuggestions": false,
+
+    "editor.suggest.showWords": false,
+    "editor.suggest.showKeywords": true,
+    "editor.suggestSelection": "recentlyUsed",
+  
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "editor.suggestSelection": "first",
+    "editor.suggest.showKeywords": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.emptyWindow": false,
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.banner": "always",
+    "window.zoomLevel": 3,
+    "window.menuBarVisibility": "toggle",
+    "workbench.iconTheme": "material-icon-theme",
+    "diffEditor.ignoreTrimWhitespace": false,
 }
