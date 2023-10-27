@@ -1,2 +1,2 @@
-! TODO:
-    [] add a script for auto importing
+> [!TODO]
+ - [ ] add a script for auto importing
